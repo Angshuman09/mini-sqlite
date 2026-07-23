@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/mini-sqlite.dir/src/input_buffer.c.o" "CMakeFiles/mini-sqlite.dir/src/main.c.o" "CMakeFiles/mini-sqlite.dir/src/meta_command.c.o" "CMakeFiles/mini-sqlite.dir/src/statement.c.o" -o mini-sqlite

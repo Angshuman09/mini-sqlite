@@ -1,0 +1,3 @@
+/Users/angshu/Documents/CORE/mini-sqlite/build/CMakeFiles/mini-sqlite.dir
+/Users/angshu/Documents/CORE/mini-sqlite/build/CMakeFiles/edit_cache.dir
+/Users/angshu/Documents/CORE/mini-sqlite/build/CMakeFiles/rebuild_cache.dir
